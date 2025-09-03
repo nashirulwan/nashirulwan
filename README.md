@@ -38,7 +38,7 @@ My journey started with exploring **Linux** systems, and since then I've been fa
 
 ## 📫 Contact
 - 💼 LinkedIn: [https://www.linkedin.com/in/ahmad-nashir-ulwan-19071428b/]  
-- 📧 Email: [ahmadnasirulwan@gmail.com]  
+- 📧 Email: [mailto:ahmadnasirulwan@gmail.com]  
 
 ---
 
