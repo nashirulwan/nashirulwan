@@ -22,17 +22,45 @@ My journey started with exploring **Linux** systems, and since then I've been fa
 ---
 
 ## 🌐 What I Do
-- 🔒 Passionate about securing systems and learning modern **cyber defense** techniques  
+- 🔒 Interested in learning how to **secure systems** and understand basic **cyber defense**
 - ☁️ Exploring **cloud platforms** and their endless possibilities  
 - ⚙️ Interested in **DevOps culture**, automation, and infrastructure as code  
 - 🐧 Daily Linux user — I enjoy tinkering, customizing, and learning from the system itself  
 
 ---
 
-## 📈 Current Goals
-- Improve my skills in **offensive & defensive security**  
-- Build hands-on projects in **cloud & automation**  
-- Contribute to open-source and share what I learn along the way  
+## 📈 Current Goals 
+- Learn the fundamentals of **offensive & defensive security**  
+- Build small projects while experimenting with **cloud & automation**  
+- Gradually contribute to open-source and document what I learn  
+
+---
+
+## 🛠 Languages, Network & Tools
+Here are some languages, frameworks, and tools I've tried or currently learning:
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+# 📊 GitHub Analytics
+
+![Profile Views](https://komarev.com/ghpvc/?username=nashirulwan&color=green)
+
+| Stats | Streak | Top Languages |
+|-------|--------|----------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nashirulwan&show_icons=true&theme=radical) | ![GitHub Streak](https://streak-stats.demolab.com/?user=nashirulwan&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashirulwan&layout=compact&theme=radical) |
 
 ---
 
