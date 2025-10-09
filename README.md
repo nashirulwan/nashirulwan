@@ -23,20 +23,20 @@ I am currently studying **Mobile Programming**, and this section contains my ass
 
 ---
 
-## i'm ulwan 🧠
+### i'm ulwan 
 
 linux enjoyer.  
 
 ---
 
-### what i’m up to 🐧
+### what i’m up to 
 - exploring offensive & defensive security  
 - building small self-hosted services  
 - learning to automate life on linux  
 
 ---
 
-### tech stack 🛠️  
+### tech stack  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
@@ -46,9 +46,9 @@ linux enjoyer.
 
 ---
 
-### find me 🌐  
+### find me  
 [LinkedIn](https://www.linkedin.com/in/ahmad-nashir-ulwan-19071428b/) • [Email](mailto:ahmadnasirulwan@gmail.com)
 
 ---
 
-> *“$(curl -s https://zenquotes.io/api/random | jq -r '.[0].q + " — " + .[0].a')”*
+> "QUOTE_PLACEHOLDER"
