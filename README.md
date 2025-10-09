@@ -51,4 +51,4 @@ linux enjoyer.
 
 ---
 
-> "QUOTE_PLACEHOLDER"
+> "Silence is a source of great strength. — Lao Tzu"
