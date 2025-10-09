@@ -1,0 +1,49 @@
+name: Update Random Quote
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # setiap hari jam 00:00 UTC (ubah kalau mau)
+  workflow_dispatch:      # bisa dijalankan manual
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch quote and replace placeholder
+        run: |
+          python3 - <<'PY'
+          import urllib.request, json, sys
+          try:
+              data = urllib.request.urlopen('https://zenquotes.io/api/random', timeout=15).read()
+              j = json.loads(data)
+              quote = j[0]['q'] + ' — ' + j[0]['a']
+          except Exception as e:
+              print("Failed to fetch quote:", e, file=sys.stderr)
+              quote = "Keep learning. — Unknown"
+
+          with open('README.md', 'r', encoding='utf-8') as f:
+              s = f.read()
+
+          s_new = s.replace('"QUOTE_PLACEHOLDER"', f'"{quote}"')
+
+          if s_new == s:
+              print("Placeholder not found or already replaced.")
+          else:
+              with open('README.md', 'w', encoding='utf-8') as f:
+                  f.write(s_new)
+              print("README updated with quote:", quote)
+          PY
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update quote" || echo "No changes to commit"
+          git push
