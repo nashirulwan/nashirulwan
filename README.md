@@ -8,7 +8,7 @@ I am currently studying **Mobile Programming**, and this section contains my ass
 
 | No | Date       | Practicum | Topic                                | Report | Repository |
 |----|------------|-----------|--------------------------------------|--------|------------|
-| 1  | 03/09/2025 | 01 | Introduction to Mobile Programming & Setup | [Modul 01](https://drive.google.com/file/d/1mExABuUrkHI9Um-pWPBfBD9tiHYjxYfJ/view?usp=drive_link) | [Source Code](https://github.com/nashirulwan/mobile_programming/tree/main/modul_1) |
+| 1  | 03/09/2025 | 01 | Introduction to Mobile Programming & Setup | [Modul 01](https://drive.google.com/file/d/1mExABuUrkHI9Um-pWPBfBD9tiHYjxYfJ/view?usp=sharing) | [Source Code](https://github.com/nashirulwan/mobile_programming/tree/main/modul_1) |
 | 2  | 03/09/2025 | 01 | Row and Column Widgets | [Modul 02](https://drive.google.com/file/d/1T66kyLsAh0bC4QJ33hkkT1-BepNOnSB5/view?usp=drive_link) | [Source Code](https://github.com/nashirulwan/mobile_programming/tree/main/modul_2) |
 | 3  | 10/09/2025 | 02 | Layout Alignment with Row & Column | [Modul 03](https://drive.google.com/file/d/1RSJDrXPBU3fKiRq7b9JOWNfMfUKTOLg4/view?usp=drive_link) | [Source Code](https://github.com/nashirulwan/mobile_programming/tree/main/modul_3) |
 | 4  | 10/09/2025 | 02 | Container, TextStyle, and Decoration | [Modul 04](https://drive.google.com/file/d/1SQppYrZPX5Mp1jKlcmX4v1mWQdQahaSM/view?usp=drive_link) | [Source Code](https://github.com/nashirulwan/mobile_programming/tree/main/modul_4) |
