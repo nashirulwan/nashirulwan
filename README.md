@@ -21,21 +21,21 @@ I am currently studying **Mobile Programming**, and this section contains my ass
 | 11 | 15/10/2025 | 07 | State Management with GetX | [Modul 11](https://drive.google.com/file/d/1dIQZ2l0OgDLlLe0YfPC-mZV6xqmvkiIw/view?usp=sharing) | [Source Code](https://github.com/nashirulwan/mobile_programming_practicum/tree/main/modul_11) |
 | 12 | 22/10/2025 | 08 | midterm exam | [cafeist](https://drive.google.com/file/d/1CDYH62tG1oGQk85-UuSgRKbDmdMpopyT/view?usp=drive_link) | [Source Code](https://github.com/nashirulwan/cafeist) |
 | 13 | 05/11/2025 | 09 | Access Location with GPS in Flutter | [Modul 12](https://drive.google.com/file/d/1yR9bf4dGc-MpMwdzY3pCQnksx3z0XaFp/view?usp=sharing) | [Source Code](https://github.com/nashirulwan/mobile_programming_practicum/tree/main/modul_12) |
-
-> 📌 All upcoming assignments and reports will be added here.
+| 14 | 19/11/2025 | 10 | CRUD (Create, Read, Update, Delete) Operations in Flutter with REST API | [Modul 13](https://drive.google.com/file/d/1aEZWlIKA-et5SWN_xb6Kdy36ckSGu5Ek/view?usp=drive_link) | [Source Code](https://github.com/nashirulwan/mobile_programming_practicum/tree/main/modul_13) |
 
 ---
 
 ### i'm ulwan 
 
-linux enjoyer.  
+linux enjoyer and homelab beginner.  
 
 ---
 
 ### what i’m working on 
-- building small self-hosted services
-- secure remote access and network management  
-- learning to automate life on linux  
+- building self-hosted services and a functional home server  
+- managing private networks and secure remote access  
+- learning automation, virtualization, and linux internals  
+- customizing linux desktops and experimenting with ricing  
 
 ---
 
@@ -43,15 +43,18 @@ linux enjoyer.
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff)
+![KVM](https://img.shields.io/badge/-KVM-000000?style=flat&logo=linux&logoColor=fff)
+![Tailscale](https://img.shields.io/badge/-Tailscale-262626?style=flat&logo=tailscale&logoColor=fff)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=fff)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=fff)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=fff)
 
 ---
 
 ### find me  
-[LinkedIn](https://www.linkedin.com/in/ahmad-nashir-ulwan-19071428b/) • [Email](mailto:ahmadnasirulwan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-nashir-ulwan-19071428b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmadnasirulwan@gmail.com)
 
 ---
 
