@@ -52,6 +52,10 @@ linux enjoyer and homelab beginner.
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashirulwan&layout=compact&theme=transparent)
+
+---
+
 ### find me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-nashir-ulwan-19071428b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmadnasirulwan@gmail.com)
