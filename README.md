@@ -52,7 +52,10 @@ linux enjoyer and homelab beginner.
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nashirulwan&layout=compact&theme=transparent)
+<div style="display: flex; gap: 10px;">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashirulwan&layout=compact&theme=transparent&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=nashirulwan&theme=transparent&hide_border=true" />
+</div>
 
 ---
 
