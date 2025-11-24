@@ -52,10 +52,13 @@ linux enjoyer and homelab beginner.
 
 ---
 
-<div style="display: flex; gap: 10px;">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashirulwan&layout=compact&theme=transparent&hide_border=true" />
-  <img height="160" src="https://streak-stats.demolab.com?user=nashirulwan&theme=transparent&hide_border=true" />
-</div>
+<table>
+  <tr>
+    <td><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashirulwan&layout=compact&theme=transparent&hide_border=true" /></td>
+    <td><img height="150" src="https://streak-stats.demolab.com?user=nashirulwan&theme=transparent&hide_border=true" /></td>
+    <td><img height="150" src="https://github-readme-stats.vercel.app/api?username=nashirulwan&show_icons=true&theme=transparent&hide_border=true" /></td>
+  </tr>
+</table>
 
 ---
 
