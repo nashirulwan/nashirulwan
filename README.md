@@ -3,6 +3,12 @@
 infra & platform enthusiast building self-hosted systems on linux.
 interested in AI integration and automation.
 
+#### what i'm into
+
+self-hosted open source stuff, linux ricing,
+and figuring out how infrastructure actually works.
+lately, getting ai agents to actually do useful work.
+
 #### tech
 
 ![NixOS](https://img.shields.io/badge/-NixOS-777EFF?style=flat&logo=nixos&logoColor=fff)
